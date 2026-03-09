@@ -1,6 +1,7 @@
 
 
 注：本工具箱基于One-Fox工具箱改编而来，采用他的ui和管理方法，如若侵权可联系我删除
+链接地址：链接：https://pan.quark.cn/s/dc3817eaca73 提取码：fd21
 # BenD 渗透测试工具箱使用方法
 直接双击BenD渗透测试工具箱.vbs即可启动
 
@@ -134,4 +135,8 @@ python loader.py
 
 - 社区优秀安全工具及开源项目
 - 提供图形界面能力的 PyQt 社区
+- ## 二次开发作者
+- Bendan
+- 网址：www.nbphp.cn
+- 项目地址：链接：https://pan.quark.cn/s/dc3817eaca73 提取码：fd21
 
