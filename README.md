@@ -1,11 +1,4 @@
----
-title: BenD渗透测试工具箱
-date: 2026-03-09 11:11:38
-tags:
-    - 安全工具
-cover:https://files.seeusercontent.com/2026/03/09/me2Z/Attack-911.png
-top_img:https://files.seeusercontent.com/2026/03/09/me2Z/Attack-911.png
----
+
 
 注：本工具箱基于One-Fox工具箱改编而来，采用他的ui和管理方法，如若侵权可联系我删除
 # BenD 渗透测试工具箱使用方法
